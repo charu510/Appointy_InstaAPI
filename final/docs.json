@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "name": "Charu Rajput",
+    "email": "charu@gmail.com",
+    "pass": "charu123"
+    },
+    {
+        "id": "2",
+        "name": "Rashmi Rajput",
+        "email": "rashmi@gmail.com",
+        "pass": "rashmi123"
+    },
+    {
+        "id": "3",
+        "name": "Urmila Thakur",
+        "email": "urmilla@gmail.com",
+        "pass": "urmilla123"
+    }
+]
